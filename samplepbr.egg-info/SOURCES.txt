@@ -1,0 +1,12 @@
+AUTHORS
+ChangeLog
+README.rst
+helloWorld.py
+setup.cfg
+setup.py
+samplepbr.egg-info/PKG-INFO
+samplepbr.egg-info/SOURCES.txt
+samplepbr.egg-info/dependency_links.txt
+samplepbr.egg-info/not-zip-safe
+samplepbr.egg-info/pbr.json
+samplepbr.egg-info/top_level.txt

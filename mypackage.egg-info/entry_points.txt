@@ -1,0 +1,9 @@
+[distutils.setup_keywords]
+mypackage = mypackage.core:pbr
+
+[egg_info.writers]
+mypackage.json = mypackage.pbr_json:write_pbr_json
+
+[console_scripts]
+mypackage = mypackage.cmd.main:main
+
